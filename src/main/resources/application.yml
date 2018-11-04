@@ -4,6 +4,6 @@ spring:
       client:
         registration:
           facebook:
-            client-id: -- YOUR FACEBOOK CLIENT ID --
-            client-secret: -- YOUR FACEBOOK CLIENT SECRET --
+            client-id: 745822442185310
+            client-secret: 1420ee09ae2935be1bfdfee43f4f0890
 scope: user_posts
